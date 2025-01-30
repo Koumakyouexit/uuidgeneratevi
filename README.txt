@@ -10,5 +10,5 @@ I just made it in my spare time, I won't be responsible if you use it and cause 
 
 Copyright by Kome's Stuff - 2024. 
 Kome's Stuff © 2024 by Kasane Kome is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International 
-profile: kochiwa.carrd.co
-fb: fb.com/realkome
+profile: https://kochiwa.carrd.co/
+fb: https://www.facebook.com/realkome
