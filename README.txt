@@ -8,7 +8,7 @@ Download it: https://github.com/Koumakyouexit/uuidgeneratevi/releases/tag/uuidv4
 
 I just made it in my spare time, I won't be responsible if you use it and cause consequences!
 
-Copyright by Kome's Stuff - 2024. 
-Kome's Stuff © 2024 by Kasane Kome is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International 
+Copyright by Kome's Stuff - 2025. 
+Kome's Stuff © 2025 by Kasane Kome is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International 
 profile: https://kochiwa.carrd.co/
 fb: https://www.facebook.com/realkome
